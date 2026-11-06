@@ -1,0 +1,42 @@
+body{ background-color: rgb(154, 210, 222);/* para el fondo*/
+    font-family: 'Times New Roman', Times, serif; /*tipo de text*/
+    color: rgb(22, 22, 27); /*para las letras*/
+
+}
+
+h1{
+    color: rgb(149, 53, 239); 
+    font-size: 2,5rem; /* tamaño del titulo*/
+}
+
+header {
+    padding: 1,5rem 2rem;
+    border-bottom: 1px rgb(66, 157, 255);
+}
+
+nav a{
+    color: rgb(95, 14, 255);
+
+}
+
+main {
+    padding: 3rem 2rem;
+}
+
+#contador-tazas{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(73, 40, 126);
+}
+
+#boton-reservar {
+    display: block;
+    margin-top: 1rem;
+    padding: 0,5rem 1,25rem;
+    background-color: rgb(108, 165, 42);
+    color: rgb(226, 243, 243);
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1,9rem;
+    cursor: pointer;
+}  
