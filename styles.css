@@ -12,6 +12,7 @@ h1{
 header {
     padding: 1,5rem 2rem;
     border-bottom: 1px rgb(66, 157, 255);
+    background-color: bisque;
 }
 
 nav a{
